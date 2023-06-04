@@ -30,7 +30,10 @@
 </div>
 <hr/>
 
-![videos/chathub.mp4](videos/chathub.mp4)
+<details open="" class="details-reset border rounded-2">
+  <video src="https://github.com/PlusLemon/proxy-gpt/raw/main/videos/chathub.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="max-width: 768px; height: auto;">
+  </video>
+</details>
 
 ## 搭建步骤
 
