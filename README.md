@@ -14,26 +14,11 @@
 
 ### [openai-translator](https://github.com/openai-translator/openai-translator)浏览器插件使用效果
 
-<div style="max-width: 768px; height: auto;">
-    <video src="videos/openai-translator.mp4" controls>
-    video标签无法显示，可以访问videos文件夹查看效果
-    </video>
-</div>
-<hr/>
+https://github.com/PlusLemon/proxy-gpt/assets/135144325/e4266e96-fa15-4cfa-b781-5e8c5295cfe2
 
 ### [chathub](https://github.com/chathub-dev/chathub)浏览器插件使用效果
 
-<div style="max-width: 768px; height: auto;">
-    <video src="videos/chathub.mp4" controls>
-    video标签无法显示，可以访问videos文件夹查看效果
-    </video>
-</div>
-<hr/>
-
-<details open="" class="details-reset border rounded-2">
-  <video src="https://github.com/PlusLemon/proxy-gpt/raw/main/videos/chathub.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="max-width: 768px; height: auto;">
-  </video>
-</details>
+https://github.com/PlusLemon/proxy-gpt/assets/135144325/fa330ddc-379f-4174-9f64-1d4978ce6bb0
 
 ## 搭建步骤
 
