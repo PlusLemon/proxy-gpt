@@ -121,4 +121,8 @@ CACHE_SKIP_WORD，默认为`/skip_cache `，表示输入中包含该内容会**�
 
 **切勿使用该技术用于非法活动！！！**
 
+## 惊喜
+
+- [bing代理Dockerfile](bing/Dockerfile)
+
 希望大家可以一起讨论如何优化代理体验，如果你有更好的配置方案，欢迎留言。
